@@ -1,4 +1,4 @@
-<h1>Projeto CommuniKids: Transformando a Comunicação para Crianças com Autismo!<\h1>
+<h1>Projeto CommuniKids: Transformando a Comunicação para Crianças com Autismo!</h1>
 
 Estou muito orgulhoso de compartilhar um projeto impactante que desenvolvi a partir do 2° semestre de 2024 e que venho melhorando: o CommuniKids, um aplicativo Android voltado para auxiliar na comunicação de crianças com autismo, especialmente aquelas com dificuldades ou sem evolução na comunicação verbal.
  
