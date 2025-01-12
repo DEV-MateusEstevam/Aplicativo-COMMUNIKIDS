@@ -13,9 +13,9 @@
 
 <p><em><strong>● Acessibilidade:</em></strong> Projetado para ser intuitivo e interativo, garantindo que crianças com autismo possam se comunicar de maneira eficaz. Funciona sem necessidade de conexão à internet, permitindo o uso contínuo sem distrações ou anúncios.</p>
 
-<p style="font-family: Arial, sans-serif; font-size: 16px;">Tecnologias Utilizadas:</p>
+<p><em><strong>Tecnologias Utilizadas:<strong></em></p>
 
-<p style="font-family: Arial, sans-serif; font-size: 16px;"> Este é um parágrafo com fonte Arial e tamanho 16px. </p>
+<p><u> Este é um parágrafo com fonte Arial e tamanho 16px. </u></p>
 
 ● Interfaces XML, Linguagem Java e IDE Android Studio Solutions para desenvolvimento;
 
