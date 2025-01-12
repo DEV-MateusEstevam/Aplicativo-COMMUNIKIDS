@@ -15,6 +15,8 @@
 
 <p style="font-family: Arial, sans-serif; font-size: 16px;">Tecnologias Utilizadas:</p>
 
+<p style="font-family: Arial, sans-serif; font-size: 16px;"> Este é um parágrafo com fonte Arial e tamanho 16px. </p>
+
 ● Interfaces XML, Linguagem Java e IDE Android Studio Solutions para desenvolvimento;
 
 ● SQLite para o banco de dados;
