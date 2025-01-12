@@ -13,7 +13,7 @@
 
 <p><em><strong>● Acessibilidade:</em></strong> Projetado para ser intuitivo e interativo, garantindo que crianças com autismo possam se comunicar de maneira eficaz. Funciona sem necessidade de conexão à internet, permitindo o uso contínuo sem distrações ou anúncios.</p>
 
-Tecnologias Utilizadas:
+<p style="font-family: Arial, sans-serif; font-size: 16px;">Tecnologias Utilizadas:</p>
 
 ● Interfaces XML, Linguagem Java e IDE Android Studio Solutions para desenvolvimento;
 
