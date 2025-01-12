@@ -5,7 +5,7 @@
 
 <p><strong><em>Identificação do Problema:</em></strong> O projeto nasceu da necessidade de criar uma solução prática e eficaz, visando um problema real, enfrentado por milhões de crianças com Transtorno do Espectro Autista (TEA), onde convivem com desafios diários para expressar suas necessidades e emoções devido a dificuldades de comunicação verbal. Esse problema limita sua autonomia e dificulta a interação social.</p>
 
-<p><em><strong>Nossa Solução:</strong></em> O CommuniKids é uma ferramenta de comunicação alternativa que oferece uma interface intuitiva e acessível. Utilizando figuras comunicativas organizadas em cinco principais categorias: Alimentos, Brinquedos e Brincadeiras, Lugares, Pessoas e Necessidades, o aplicativo ajuda as crianças a se expressarem de maneira eficaz e desenvolverem suas habilidades de fala.</p>
+<p><h4><em><strong>Nossa Solução:</strong></em></h4> O CommuniKids é uma ferramenta de comunicação alternativa que oferece uma interface intuitiva e acessível. Utilizando figuras comunicativas organizadas em cinco principais categorias: Alimentos, Brinquedos e Brincadeiras, Lugares, Pessoas e Necessidades, o aplicativo ajuda as crianças a se expressarem de maneira eficaz e desenvolverem suas habilidades de fala.</p>
 
 Diferenciais:
 
