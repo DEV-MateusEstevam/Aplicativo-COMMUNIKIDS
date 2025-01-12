@@ -15,7 +15,7 @@
 
 <p><em><strong>Tecnologias Utilizadas:<strong></em></p>
 
-<p><u> Este é um parágrafo com fonte Arial e tamanho 16px. </u></p>
+<p><u> Este é um parágrafo com fonte Arial e tamanho 16px. &lt;u&gt; </u></p>
 
 ● Interfaces XML, Linguagem Java e IDE Android Studio Solutions para desenvolvimento;
 
