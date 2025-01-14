@@ -15,16 +15,14 @@
 
 <p><em><strong>Tecnologias Utilizadas:<strong></em></p>
 
-<p><u> Este é um parágrafo com fonte Arial e tamanho 16px. &lt;u&gt; </u></p>
-
 <ul>
-<li>● Interfaces XML, Linguagem Java e IDE Android Studio Solutions para desenvolvimento;</li>
+<li>Interfaces XML, Linguagem Java e IDE Android Studio Solutions para desenvolvimento;</li>
 
-● SQLite para o banco de dados;
+<li>SQLite para o banco de dados;</li>
 
-● INKSCAPE e Figma para design das interfaces;
+<li>INKSCAPE e Figma para design das interfaces;</i>
 
-● Microsoft Clipchamp para criação das mídias.
+<li>Microsoft Clipchamp para criação das mídias.</li>
 </ul>
 
-Impacto Esperado: O CommuniKids visa proporcionar maior autonomia e independência para crianças com autismo, beneficiando pais, educadores e profissionais de saúde com uma ferramenta eficaz e acessível.
+<p><em><strong>Impacto Esperado:<em><strong> O CommuniKids visa proporcionar maior autonomia e independência para crianças com autismo, beneficiando pais, educadores e profissionais de saúde com uma ferramenta eficaz e acessível.</p>
