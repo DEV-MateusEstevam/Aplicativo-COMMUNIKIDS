@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/roxo"
+   >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MENU DE INTERAÇÕES"
+        android:textSize="43dp"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"/>
+
+            <ImageButton
+                android:id="@+id/btnAlimento"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:src="@drawable/btnalimentosoff"
+                android:background="@color/roxo"
+                android:layout_marginTop="50dp"/>
+
+            <ImageButton
+                android:id="@+id/btnBrinquedos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/btnbrinquedosoff"
+                android:layout_marginLeft="235dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/roxo"/>
+
+        <ImageButton
+            android:id="@+id/btnLugares"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btnlugaresoff"
+            android:layout_marginLeft="15dp"
+            android:background="@color/roxo"
+            android:layout_marginTop="20dp"/>
+
+        <ImageButton
+            android:id="@+id/btnPessoas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btnpessoasoff"
+            android:layout_marginLeft="235dp"
+            android:layout_marginTop="20dp"
+            android:background="@color/roxo"/>
+
+    <ImageButton
+        android:id="@+id/btnNecessidade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/btnnecessidadeoff"
+        android:background="@color/roxo"/>
+
+</LinearLayout>
