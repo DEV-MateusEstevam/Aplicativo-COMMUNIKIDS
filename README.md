@@ -29,7 +29,7 @@
 </section>
 
 <section align= "left">
-<img align="center" alt="CommuniKids" height="150" width="311" src="https://github.com/user-attachments/assets/2710d5d4-15a9-486e-b4d2-af05dced8a7e">
+<img align="center" alt="CommuniKids" height="100" width="207" src="https://github.com/user-attachments/assets/2710d5d4-15a9-486e-b4d2-af05dced8a7e">
 </section>
 
 </div>
