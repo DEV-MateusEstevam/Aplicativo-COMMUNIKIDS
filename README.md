@@ -2,7 +2,7 @@
 <h1><em>Projeto CommuniKids: Transformando a Comunicação para Crianças com Autismo!</em></h1> 
   
 <section align= "center">
-<img align="center" alt="CommuniKids" height="100" width="207" src="https://github.com/user-attachments/assets/4a417d56-7c43-426d-808c-8c7a727e34a8">
+<img align="center" alt="CommuniKids" height="80" width="80" src="https://github.com/user-attachments/assets/4a417d56-7c43-426d-808c-8c7a727e34a8">
 </section>
 
 <section align = "justify">
