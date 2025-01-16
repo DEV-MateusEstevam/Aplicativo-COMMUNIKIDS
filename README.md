@@ -1,10 +1,7 @@
 <div >
+  
 <h1><em>Projeto CommuniKids: Transformando a Comunicação para Crianças com Autismo!</em></h1> 
   
-<section align= "center">
-<img align="center" alt="CommuniKids" height="80" width="80" src="https://github.com/user-attachments/assets/4a417d56-7c43-426d-808c-8c7a727e34a8">
-</section>
-
 <section align = "justify">
 <p>Estou muito orgulhoso de compartilhar um projeto impactante que desenvolvi a partir do 2° semestre de 2024 e que venho melhorando: o <strong>CommuniKids</strong>, um aplicativo Android voltado para auxiliar na comunicação de crianças com autismo, especialmente aquelas com dificuldades ou sem evolução na comunicação verbal.</p>
 
@@ -31,9 +28,8 @@
 </ul>
 
 <p><em><strong>Impacto Esperado:</em></strong> O CommuniKids visa proporcionar maior autonomia e independência para crianças com autismo, beneficiando pais, educadores e profissionais de saúde com uma ferramenta eficaz e acessível.</p>
+  
 </section>
-
-
 
 </div>
 
