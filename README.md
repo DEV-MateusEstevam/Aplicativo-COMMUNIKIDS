@@ -29,7 +29,11 @@
 
 <p><em><strong>Impacto Esperado:</em></strong> O CommuniKids visa proporcionar maior autonomia e independência para crianças com autismo, beneficiando pais, educadores e profissionais de saúde com uma ferramenta eficaz e acessível.</p>
 
-<p><em>Confira o funcionamento do app no meu canal:</em> <a href:"https://www.youtube.com/@EstevamDEV">@EstevamDEV</a> </p>
+<a href="mailto:mateusevangelistaestevam@gmail.com" target=_blank>
+<img align="center" alt="Gmail" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+<p><em>Confira o funcionamento do app no meu canal: </em> <a href="https://www.youtube.com/@EstevamDEV" target=_blank> @EstevamDEV</a> </p>
 </section>
 
 </div>
