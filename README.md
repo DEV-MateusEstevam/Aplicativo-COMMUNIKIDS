@@ -28,7 +28,8 @@
 </ul>
 
 <p><em><strong>Impacto Esperado:</em></strong> O CommuniKids visa proporcionar maior autonomia e independência para crianças com autismo, beneficiando pais, educadores e profissionais de saúde com uma ferramenta eficaz e acessível.</p>
-  
+
+<p>Confira o funcionamento do app aqui: <a></a> </p>
 </section>
 
 </div>
