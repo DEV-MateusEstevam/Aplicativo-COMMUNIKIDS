@@ -20,7 +20,7 @@
 <ul>
 <li>Interfaces <a href="https://www.w3.org/XML/">XML</a>, Linguagem <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">Java</a> e IDE <a href="https://developer.android.com/studio?hl=pt-br">Android Studio Developers</a> para desenvolvimento;</li>
 
-<li>SQLite para o banco de dados;</li>
+<li><a href="https://www.sqlite.org/">SQLite</a> para o banco de dados;</li>
 
 <li><a href="https://inkscape.org/pt-br/">INKSCAPE></a> e Figma para design das interfaces;</i>
 
