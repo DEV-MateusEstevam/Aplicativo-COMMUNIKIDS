@@ -18,7 +18,7 @@
 <p><em><strong>Tecnologias Utilizadas:<strong></em></p>
 
 <ul>
-<li>Interfaces XML, Linguagem Java e IDE <a href="https://developer.android.com/studio?hl=pt-br">Android Studio Developers</a> para desenvolvimento;</li>
+<li>Interfaces XML, Linguagem <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">Java</a> e IDE <a href="https://developer.android.com/studio?hl=pt-br">Android Studio Developers</a> para desenvolvimento;</li>
 
 <li>SQLite para o banco de dados;</li>
 
