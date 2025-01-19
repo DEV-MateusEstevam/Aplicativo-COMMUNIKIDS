@@ -24,7 +24,7 @@
 
 <li><a href="https://inkscape.org/pt-br/">INKSCAPE</a> e <a href="https://www.figma.com/pt-br/">Figma</a> para design das interfaces;</i>
 
-<li>Microsoft Clipchamp para criação das mídias.</li>
+<li><a href="https://clipchamp.com/pt-br/windows-video-editor/">Microsoft Clipchamp</a> para criação das mídias.</li>
 </ul>
 
 <p><em><strong>Impacto Esperado:</em></strong> O CommuniKids visa proporcionar maior autonomia e independência para crianças com autismo, beneficiando pais, educadores e profissionais de saúde com uma ferramenta eficaz e acessível.</p>
