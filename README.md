@@ -22,7 +22,7 @@
 
 <li><a href="https://www.sqlite.org/">SQLite</a> para o banco de dados;</li>
 
-<li><a href="https://inkscape.org/pt-br/">INKSCAPE></a> e Figma para design das interfaces;</i>
+<li><a href="https://inkscape.org/pt-br/">INKSCAPE</a> e <a href="https://www.figma.com/pt-br/">Figma</a> para design das interfaces;</i>
 
 <li>Microsoft Clipchamp para criação das mídias.</li>
 </ul>
