@@ -22,7 +22,7 @@
 
 <li>SQLite para o banco de dados;</li>
 
-<li>INKSCAPE e Figma para design das interfaces;</i>
+<li><a href="https://inkscape.org/pt-br/">INKSCAPE></a> e Figma para design das interfaces;</i>
 
 <li>Microsoft Clipchamp para criação das mídias.</li>
 </ul>
