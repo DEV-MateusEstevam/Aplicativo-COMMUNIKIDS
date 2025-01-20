@@ -35,7 +35,6 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
     public void onClick(View v) {
         if (v.getId() == R.id.btnLCCadastre_se) {
             MediaPlayer musicPlayer = MediaPlayer.create(this, R.raw.btncadastrareducador);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -56,7 +55,6 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
         String senha = txtLCSenha.getText().toString();
         if (email.isEmpty()){
             musicPlayer = MediaPlayer.create(this,R.raw.btnfazerlogin);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -65,7 +63,6 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
             return false;
         }else if (senha.isEmpty()){
             musicPlayer = MediaPlayer.create(this,R.raw.btnfazerlogin);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -80,16 +77,13 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
 
         if(dados.moveToFirst()){
             musicPlayer = MediaPlayer.create(this,R.raw.sbvcommunikids);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
             return true;
-            //this.limpar();
 
         }else{
             musicPlayer = MediaPlayer.create(this,R.raw.btnfazerlogin);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
