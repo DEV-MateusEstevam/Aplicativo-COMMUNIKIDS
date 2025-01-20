@@ -50,7 +50,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     }
 
     public void onClick(View v) {
-        // TODO Auto-generated method stub
         if (v.getId() == R.id.btnCadastrar) {
             cadastrar();
         }
@@ -88,14 +87,12 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
             cidade.setText(dados.getString(9) );
 
             musicPlayer = MediaPlayer.create(this,R.raw.btnconsultar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
 
         }else{
             musicPlayer = MediaPlayer.create(this,R.raw.btnnconsultar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -121,7 +118,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
         boolean erro = false;
         if (txtNome.length()==0) {
             musicPlayer = MediaPlayer.create(this,R.raw.btnncadastrar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -131,7 +127,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         } else if (txtEmail.length()<10){
             musicPlayer = MediaPlayer.create(this,R.raw.btnncadastrar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -141,7 +136,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         } else if (txtDataNasc.length()<10){
             musicPlayer = MediaPlayer.create(this,R.raw.btnncadastrar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -151,7 +145,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         }else if (txtTelefone.length()<11){
             musicPlayer = MediaPlayer.create(this,R.raw.btnncadastrar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -162,7 +155,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         if (erro==false){
             musicPlayer = MediaPlayer.create(this,R.raw.btncadastrar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -195,7 +187,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
         boolean erro = false;
         if (codigo.getText().toString().length()==0) {
             musicPlayer = MediaPlayer.create(this,R.raw.btnnalterar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -205,7 +196,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         } else if (txtNome.length()==0) {
             musicPlayer = MediaPlayer.create(this,R.raw.btnnalterar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -215,7 +205,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         }else if (txtEmail.length()<10){
             musicPlayer = MediaPlayer.create(this,R.raw.btnnalterar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -225,7 +214,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         }else if (txtDataNasc.length()<10){
             musicPlayer = MediaPlayer.create(this,R.raw.btnnalterar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -235,7 +223,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
 
         } else if (txtTelefone.length()<11){
             musicPlayer = MediaPlayer.create(this,R.raw.btnnalterar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -250,7 +237,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
             msg = bd.alteraDados(id, txtNome, txtEmail, txtDataNasc, txtTelefone, txtSexo, txtCep,  txtEndereco, txtBairro, txtCidade) ;
 
             musicPlayer = MediaPlayer.create(this,R.raw.btnalterar);
-            //musicPlayer.setLooping(true);
             musicPlayer.seekTo(0);
             musicPlayer.setVolume(0.5f,0.5f);
             musicPlayer.start();
@@ -268,7 +254,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
         res = bd.excluirDados(id) ;
 
         musicPlayer = MediaPlayer.create(this,R.raw.btndeletar);
-        //musicPlayer.setLooping(true);
         musicPlayer.seekTo(0);
         musicPlayer.setVolume(0.5f,0.5f);
         musicPlayer.start();
