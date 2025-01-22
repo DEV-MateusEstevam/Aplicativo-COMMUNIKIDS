@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/Login"
+    android:orientation="vertical"
+    android:background="@color/roxo1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/imglogo"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/imgicon128"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="E-MAIL"
+        android:textColor="@color/white"
+        android:textSize="35dp"
+        android:textStyle="italic"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:id="@+id/txtLCEmail"
+        android:textColor="@color/white"
+        android:layout_marginTop="11dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SENHA"
+        android:textSize="35dp"
+        android:textStyle="italic"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:id="@+id/txtLCSenha"
+        android:layout_marginTop="11dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/btnfazerlogin"
+        android:layout_gravity="center"
+        android:id="@+id/btnLCAcessar"
+        android:layout_marginTop="30dp"
+        android:background="@color/roxo1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Ainda não é Cadastrado?"
+        android:textStyle="italic"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textColor="@color/white"/>
+
+    <ImageButton
+        android:id="@+id/btnLCCadastre_se"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@color/roxo1"
+        android:src="@drawable/btncadastrese" />
+
+</LinearLayout>
