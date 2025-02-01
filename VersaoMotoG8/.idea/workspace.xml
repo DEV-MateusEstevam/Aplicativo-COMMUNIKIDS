@@ -5,7 +5,7 @@
       <config>
         <device id="pixel_3_xl" />
         <device id="pixel_3a_xl" />
-        <device id="pixel_3a" />
+        //<device id="pixel_3a" />
       </config>
     </shared>
     <layouts>
